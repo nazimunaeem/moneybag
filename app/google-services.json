@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "189445175691",
+    "project_id": "moneybag-by-nazim",
+    "storage_bucket": "moneybag-by-nazim.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189445175691:android:10246b50be0c8668d0578e",
+        "android_client_info": {
+          "package_name": "com.bd.nazim.moneybag"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMeibPQilkvzM1aj9eXvAidZ936SUL5bU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

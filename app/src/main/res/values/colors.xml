@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Redesigned Cohesive Palette: Deep Navy & Emerald Green -->
+    <!-- Primary: Emerald 600 -->
+    <color name="primary">#059669</color>
+    <color name="onPrimary">#FFFFFF</color>
+    <color name="primaryContainer">#D1FAE5</color>
+    <color name="onPrimaryContainer">#064E3B</color>
+
+    <!-- Secondary: Slate/Navy 700 -->
+    <color name="secondary">#334155</color>
+    <color name="onSecondary">#FFFFFF</color>
+    <color name="secondaryContainer">#E2E8F0</color>
+    <color name="onSecondaryContainer">#0F172A</color>
+
+    <!-- Tertiary: Cyan 700 -->
+    <color name="tertiary">#0E7490</color>
+    <color name="onTertiary">#FFFFFF</color>
+    <color name="tertiaryContainer">#CFFAFE</color>
+    <color name="onTertiaryContainer">#083344</color>
+
+    <!-- Error: Rose 600 -->
+    <color name="error">#E11D48</color>
+    <color name="onError">#FFFFFF</color>
+    <color name="errorContainer">#FFE4E6</color>
+    <color name="onErrorContainer">#4C0519</color>
+
+    <!-- Background & Surface: Slate 50/100 -->
+    <color name="background">#F8FAFC</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="onSurface">#0F172A</color>
+    <color name="surfaceVariant">#F1F5F9</color>
+    <color name="onSurfaceVariant">#475569</color>
+    <color name="outline">#CBD5E1</color>
+    <color name="outlineVariant">#E2E8F0</color>
+
+    <!-- Semantic Colors for Finance -->
+    <color name="income">#10B981</color>
+    <color name="expense">#F43F5E</color>
+    <color name="income_container">#ECFDF5</color>
+    <color name="expense_container">#FFF1F2</color>
+
+    <!-- Hero Card Gradient Colors -->
+    <color name="hero_start">#064E3B</color>
+    <color name="hero_end">#065F46</color>
+
+    <color name="ic_launcher_background">#059669</color>
+</resources>

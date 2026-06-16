@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="?attr/colorControlHighlight">
+    <item>
+        <layer-list>
+            <!-- Background solid color -->
+            <item>
+                <shape android:shape="rectangle">
+                    <solid android:color="?attr/colorSurface" />
+                </shape>
+            </item>
+            <!-- Only bottom and right lines to create a grid without double lines -->
+            <item
+                android:top="-1dp"
+                android:left="-1dp">
+                <shape android:shape="rectangle">
+                    <stroke
+                        android:width="@dimen/keyboard_stroke_width"
+                        android:color="?attr/colorOutlineVariant" />
+                </shape>
+            </item>
+        </layer-list>
+    </item>
+</ripple>
